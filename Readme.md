@@ -37,6 +37,7 @@ Serial Monitor Baud Rate: 115200
 ## Project Status
 
 Under Development.
+
 ## Project Demonstration
 
-[Download and Watch Project Video](automatic_gate_demo.mp4)
+[Watch / Download Project Video](video-output-3842ACED-FD43-4DA7-A359-F91A0ABE58CC-1.mp4)
